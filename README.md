@@ -1,6 +1,6 @@
 # storehouse-inventory-console
 
-This is a console based inventory management application in C++ that is used to create, view, update and delete goods that can be stored in a storehouse. In the image below, it's being used as an inventory track for goods distributed during a disaster such as an earthquake, etc. The user can create new perishable or non-perishable goods to add to their collection, and can specify related data such as ID, name, price, quantity, etc. Supports console and file I/O.
+This is a console based inventory management application in C++ that is used to create, view, update and delete goods that can be stored in a storehouse. In the image below, it's being used as an inventory tracker for goods distributed during a disaster such as an earthquake, etc. The user can create new perishable or non-perishable goods to add to their collection, and can specify related data such as ID, name, price, quantity, etc. Supports console and file I/O.
 
 ## Instructions
 
